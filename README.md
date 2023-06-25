@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Full Stack Developer from India</h3>
 
 <p align="center"> <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil1786&label=Profile%20views&color=0e75b6&style=flat" alt="sahil1786" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahilyadav12&label=Profile%20views&color=0e75b6&style=flat" alt="Sahilyadav12" /> </p>
 
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Information Technology
 
@@ -10,7 +10,7 @@
 
 - 🤝🏽 I’m looking to collaborate on real-world projects
 
-- 📫 How to reach me **sahilkaitha@gmai.com**
+- 📫 How to reach me **ysahil6291@gmail.com**
 
 - ⚡ Fun fact: i love to watch web series & Movies
 
@@ -24,19 +24,19 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sahil1786&count_private=true&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sahilyadav12&count_private=true&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil1786&layout=compact&theme=react&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilyadav12&layout=compact&theme=react&count_private=false" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sahil1786&theme=vision-friendly-dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahilyadav12&theme=vision-friendly-dark" />
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil1786" alt="sahil1786" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sahilyadav12" alt="Sahilyadav12" /></a> </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sahil1786&theme=monokai" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sahilyadav12&theme=monokai" />
 </p>
 
